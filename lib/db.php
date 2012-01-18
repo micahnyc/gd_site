@@ -1,4 +1,4 @@
 <?php
-	mysql_connect("localhost", "lvl3_se", "bedside");
-	mysql_select_db("lvl3_se");
+	mysql_connect("localhost", "user_name", "password");
+	mysql_select_db("db_name");
 ?>
